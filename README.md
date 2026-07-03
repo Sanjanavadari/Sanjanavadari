@@ -13,7 +13,7 @@
 
 **[MedAlert](https://github.com/Sanjanavadari/sleeppeddlers.git)** — Real-time medical imaging alert pipeline on AWS Lambda/S3/API Gateway. 🏆 1st place, NHETIS'25 (1278 participants)
 
-**[FortiX](https://github.com/Jaykd33/fortix-guard-engine.git)** — Random Forest-based fraud detection system for fintech, 91% accuracy
+**[FortiX](https://github.com/Sanjanavadari/fortix-guard-engine.git)** — Random Forest-based fraud detection system for fintech, 91% accuracy
 
 **[RAG Chatbot](https://github.com/Sanjanavadari/rag_chatbot_frontend.git)** — PDF question-answering system built with FastAPI + ChromaDB
 
