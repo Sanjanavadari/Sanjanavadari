@@ -11,7 +11,7 @@
 
 **[DeepGuard](https://github.com/Sanjanavadari/Deepfake-Detection.git)** — CNN+Transformer deepfake detection using EfficientNetV2, 92.2% accuracy, with Grad-CAM explainability
 
-**[MedAlert](https://github.com/Sakshi281205/sleeppeddlers.git)** — Real-time medical imaging alert pipeline on AWS Lambda/S3/API Gateway. 🏆 1st place, NHETIS'25 (1278 participants)
+**[MedAlert](https://github.com/Sanjanavadari/sleeppeddlers.git)** — Real-time medical imaging alert pipeline on AWS Lambda/S3/API Gateway. 🏆 1st place, NHETIS'25 (1278 participants)
 
 **[FortiX](https://github.com/Jaykd33/fortix-guard-engine.git)** — Random Forest-based fraud detection system for fintech, 91% accuracy
 
