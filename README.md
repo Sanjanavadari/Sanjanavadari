@@ -8,6 +8,7 @@
 ---
 
 ## 🚀 Projects
+**[TalentLens](https://github.com/Sanjanavadari/talentlens.git)** — AI-powered resume ranking platform combining semantic search (sentence-transformers + FAISS) and rule-based scoring, with full explainability breakdowns
 
 **[DeepGuard](https://github.com/Sanjanavadari/Deepfake-Detection.git)** — CNN+Transformer deepfake detection using EfficientNetV2, 92.2% accuracy, with Grad-CAM explainability
 
