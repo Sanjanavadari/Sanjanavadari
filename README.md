@@ -1,7 +1,7 @@
 # Hi, I'm Sanjana Vadari 👋
 
 🎓 B.E. CSE (AI/ML), Chaitanya Bharathi Institute of Technology, Hyderabad — Class of 2027 (CGPA: 9.54)
-💼 Software Developer Intern @ ND Matrix — Backend APIs, Azure, Node.js/TypeScript/MySQL
+💼 Software Developer Intern @ nDMatrix — Backend APIs, Azure, Node.js/TypeScript/MySQL
 🔬 Ex-AI Intern @ 8bit AI — RAG chatbots, GPT-2 fine-tuning, Docker/Jenkins CI/CD
 📫 sanjana.vadari@email.com | [LinkedIn](https://www.linkedin.com/in/sanjana-vadari/) | [LeetCode](https://leetcode.com/u/sanjana_vadari/)
 
