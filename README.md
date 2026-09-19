@@ -34,6 +34,3 @@
 
 ## 🥋 Beyond Code
 Taekwondo Black Belt (Dan 2, state/district competitor) · MUN Secretariat & Best Delegate · Chess tournament competitor
-
-```
-
