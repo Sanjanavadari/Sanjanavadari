@@ -34,3 +34,7 @@
 
 ## 🥋 Beyond Code
 Taekwondo Black Belt (Dan 2, state/district competitor) · MUN Secretariat & Best Delegate · Chess tournament competitor
+
+[![Sanjana's GitHub stats](https://vercel.app)](https://github.com/Sanjanavadari/github-readme-stats)
+```
+
