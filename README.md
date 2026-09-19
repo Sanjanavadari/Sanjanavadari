@@ -40,5 +40,5 @@ Taekwondo Black Belt (Dan 2, state/district competitor) · MUN Secretariat & Bes
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjanavadari&show_icons=true" />
+  <img src="https://github-readme-stats-woad-sigma-21.vercel.app/api?username=Sanjanavadari&show_icons=true" />
 </p>
